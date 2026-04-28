@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+education_system.db
+*.pkl
+.env
+.DS_Store
